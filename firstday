@@ -1,8 +1,9 @@
-git --version
+i
+g --version
 git init
 git config --global user.name ""
 git config --global user.email ""
 git log
 git config --list
 git log --author=username
-Bad Boy Hemanth
+good Boy Hemanth
